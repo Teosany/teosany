@@ -1,6 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Bogdan</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=000000&background=A0ECB1&multiline=true&repeat=false&random=false&width=820&lines=A+passionate+Full+stack+developer+from+France" alt="Typing SVG" /></a></h3>
 
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on [online_library](https://github.com/Teosany/online_library)
 
