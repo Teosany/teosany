@@ -36,6 +36,6 @@
 
 <p align="left">
      <a href="https://open.spotify.com/user/31qfq2yndd36sjx6wmoqqxjr4idu?si=8f1e194fcf414c02">
-  <img width="320" height="445" src="spotify-github-profile.vercel.app/api/view?uid=31qfq2yndd36sjx6wmoqqxjr4idu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
+  <img width="320" height="445" src="https://spotify-github-profile.vercel.app/api/view?uid=31qfq2yndd36sjx6wmoqqxjr4idu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false">
          </a>
 </p>
