@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [We All Are Winos](https://github.com/Teosany/WeAllAreWinos)
+- 🔭 I’m currently working on [In vino verba](https://github.com/Teosany/InVinoVerba)
 
 - 🌱 I’m currently learning:
 <br><br>
