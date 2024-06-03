@@ -57,7 +57,7 @@
 
 <!--
 <p align="center">
-  <a href="https://open.spotify.com/user/31qfq2yndd36sjx6wmoqqxjr4idu?si=8f1e194fcf414c02">
+  <a href="https://open.spotify.com/user/316p5tobasjp5dihcs4t3aelerfi?si=de557cda66bb4d04">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31qfq2yndd36sjx6wmoqqxjr4idu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </a>
 </p> -->
