@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on [Chat Borgne](https://chatborgne.zeabur.app/)
+- 🔭 Previously built [Chat Borgne tattoo](https://chatborgne.zeabur.app/) - a commercial project
 
 <!--- - 🌱 I’m currently learning:
 <br><br>
